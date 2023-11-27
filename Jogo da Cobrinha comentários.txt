@@ -1,3 +1,1 @@
-O jogo era um canvas com a cobrinha, no if toda vez que enconstasse na borda ela dava a mensagem de game over, e toda vez que avança crescia cada vez mais
-colquei cores diferentes já do que já tinha antes era preto, branco cobra vermelha, borda do canvas preta e o resto branco, implementei uma comida, mesma função da borda,
-só que ao em vez de morrer ela cresce ainda mais com o if, coloquei a banana na cor amarela para que toda vez que coma cresça, e somente isso que foi a mais.
+
